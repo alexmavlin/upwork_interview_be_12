@@ -23,7 +23,7 @@ memory_limit=4G
 9. If during testing API routes it complains about access or authorization run ```chmod -R 775 ./storage``` in the /bin/bash mode.
 
 ## Second run
-1. Open the PMS-Backend folder in terminal and run ```make up```. It will set all the environment in the Docker Desktop.
+1. Open the ```upwork_interview_be_12``` folder in terminal and run ```make up```. It will set all the environment in the Docker Desktop.
 2. To get into a PHP's /bin/bash run ```make bash```.
 3. You are ready to work.
 
